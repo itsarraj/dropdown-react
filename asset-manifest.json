@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b1d40415.css",
-    "main.js": "/react-gh-pages/static/js/main.9431413d.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b1d40415.css.map": "/react-gh-pages/static/css/main.b1d40415.css.map",
-    "main.9431413d.js.map": "/react-gh-pages/static/js/main.9431413d.js.map"
+    "main.css": "/dropdown-react/static/css/main.b1d40415.css",
+    "main.js": "/dropdown-react/static/js/main.9431413d.js",
+    "index.html": "/dropdown-react/index.html",
+    "main.b1d40415.css.map": "/dropdown-react/static/css/main.b1d40415.css.map",
+    "main.9431413d.js.map": "/dropdown-react/static/js/main.9431413d.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d40415.css",
