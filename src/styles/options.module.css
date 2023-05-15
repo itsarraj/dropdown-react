@@ -3,35 +3,50 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #fff;
     margin: 0px 0px 0px 0px;
     padding: 8px;
-    width: 100%;
-    border-radius: 4px;
+    width: 40%;
     border: none;
-    color: #172c38;
+    color: rgba(59, 78, 89, 0.902);
+    background-color: #fff;
+}
+.button,
+.button:hover {
+    border-radius: 4px;
+    background-color: #fff;
+    font-size: 35px;
+    color: rgba(59, 78, 89, 0.9);
+}
+
+.dropdown,
+.dropdown:hover {
+    background-color: #fff;
 }
 .select {
-    min-width: 100%;
-    width: 200px;
     border: none;
-    padding: 20px;
-    font-size: 35px;
-    background-color: #fff;
     color: rgba(59, 78, 89, 0.9);
 }
 .selectoptionselect {
     color: rgba(59, 78, 89, 0.9);
 }
-.selectoptionyes {
-    color: rgba(59, 78, 89, 1);
-}
-.selectoptionprobablynot {
+.selectoption {
     color: rgba(59, 78, 89, 1);
 }
 
-.head {
-    margin: 0px 20px 20px 20px;
-    background-color: red;
-    padding: 8px;
+.button,
+.button:hover {
+    width: 100%;
+    size: 100%;
+    border: none;
+    border: none;
+}
+
+li,
+ul {
+    padding-left: 20px;
+    padding-bottom: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
 }
